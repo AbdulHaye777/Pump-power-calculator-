@@ -1,4 +1,2 @@
-pump-power-calculator/
-│
-├── app.py
-└── requirements.txt
+streamlit
+
